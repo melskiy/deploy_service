@@ -25,7 +25,7 @@ def user():
                 unsafe_allow_html=True)
 
     st.subheader("Пользователь")
-    path = 'https://fulsomely-sensuous-zorilla.cloudpub.ru'
+    path = 'https://21605cb1-9a59-4e4d-9eda-cd62b4c379c1.tunnel4.com'
     # Форма для ввода темы и тела сообщения
     with st.form(key='user_form'):
         user_subject = str(st.text_input("Тема"))
